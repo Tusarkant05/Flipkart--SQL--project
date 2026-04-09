@@ -1,5 +1,5 @@
 # Flipkart--SQL--project
-[](https://github.com/Tusarkant05/Flipkart--SQL--project/blob/main/flipkart.jpg)
+![](https://github.com/Tusarkant05/Flipkart--SQL--project/blob/main/flipkart.jpg)
 
 ## Flipkart E-commerce SQL project
 
